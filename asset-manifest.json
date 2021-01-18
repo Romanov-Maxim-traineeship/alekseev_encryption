@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alekseev_encryption/static/css/main.488368d5.chunk.css",
+    "main.js": "/alekseev_encryption/static/js/main.906b9885.chunk.js",
+    "main.js.map": "/alekseev_encryption/static/js/main.906b9885.chunk.js.map",
+    "runtime-main.js": "/alekseev_encryption/static/js/runtime-main.4d8323f8.js",
+    "runtime-main.js.map": "/alekseev_encryption/static/js/runtime-main.4d8323f8.js.map",
+    "static/css/2.b72b1a0e.chunk.css": "/alekseev_encryption/static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.286b5c76.chunk.js": "/alekseev_encryption/static/js/2.286b5c76.chunk.js",
+    "static/js/2.286b5c76.chunk.js.map": "/alekseev_encryption/static/js/2.286b5c76.chunk.js.map",
+    "static/js/3.7cc30e13.chunk.js": "/alekseev_encryption/static/js/3.7cc30e13.chunk.js",
+    "static/js/3.7cc30e13.chunk.js.map": "/alekseev_encryption/static/js/3.7cc30e13.chunk.js.map",
+    "index.html": "/alekseev_encryption/index.html",
+    "static/css/2.b72b1a0e.chunk.css.map": "/alekseev_encryption/static/css/2.b72b1a0e.chunk.css.map",
+    "static/css/main.488368d5.chunk.css.map": "/alekseev_encryption/static/css/main.488368d5.chunk.css.map",
+    "static/js/2.286b5c76.chunk.js.LICENSE.txt": "/alekseev_encryption/static/js/2.286b5c76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d8323f8.js",
+    "static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.286b5c76.chunk.js",
+    "static/css/main.488368d5.chunk.css",
+    "static/js/main.906b9885.chunk.js"
+  ]
+}
